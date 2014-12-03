@@ -3,7 +3,7 @@ goproxy
 A simple proxy (two level proxy) writen in golang
 
 ## Install
-You should have a golang env. <a href"https://golang.org/dl/">Download</a> 1.2 or later        
+You should have a golang env. Download[https://golang.org/dl/] 1.2 or later        
 ```
 mkdir /home/goroxy
 export GOAPTH=/home/goroxy
