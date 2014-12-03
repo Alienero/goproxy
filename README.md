@@ -12,6 +12,7 @@ go get the github.com/Alienero/goproxy
 go install github.com/Alienero/goproxy/client
 go install github.com/Alienero/goproxy/server
 go install github.com/Alienero/goproxy
+cd $GOAPTH/bin
 ./key -host [your host]
 # Instlled.
 ```
