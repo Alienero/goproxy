@@ -37,7 +37,7 @@ nohup ./server [OPinions] &
 # The remote server address(proxy server). Default is yim.so
 #   -remote yim.so
 # If you ues the windows,you want to hava the colorful print, you can set the iscolor true
-# Default is false. It Only can display good in Cygwin Terminal
+# Default is false. It Only normal display in Cygwin Terminal
 #   -iscolor
 ```
 Hava Fun~Geaks
