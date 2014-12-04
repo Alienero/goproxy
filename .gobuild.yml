@@ -1,0 +1,5 @@
+settings:
+        build: |
+           go install -v github.com/Alienero/goproxy/client
+           go install -v github.com/Alienero/goproxy/server
+           go install -v github.com/Alienero/goproxy/server
