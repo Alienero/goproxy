@@ -16,6 +16,9 @@ cd $GOAPTH/bin
 ./key -host [your host]
 # Instlled.
 ```
+### OR Download Binary
+key: [![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/key/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/key)
+
 ##Usage
 ```
 cd $GOAPTH/bin
