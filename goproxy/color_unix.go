@@ -11,3 +11,5 @@ const (
 	Mid   = ";49;1m"
 	End   = "\033[39;49;0m"
 )
+
+func SetColor() {}
