@@ -18,7 +18,8 @@ cd $GOAPTH/bin
 ```
 ### OR Download Binary
 key: [![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/key/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/key)
-
+client :[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/client/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/client)
+server :[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/server/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/server)
 ##Usage
 ```
 cd $GOAPTH/bin
