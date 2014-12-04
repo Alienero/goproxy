@@ -17,9 +17,9 @@ cd $GOAPTH/bin
 # Instlled.
 ```
 ### OR Download Binary
-Key     : [![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/key/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/key)    
-Client :[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/client/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/client)    
-Server:[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/server/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/server)
+- Key: [![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/key/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/key)
+- Client:[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/client/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/client)
+- Server:[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/server/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/server)
 ##Usage
 ```
 cd $GOAPTH/bin
