@@ -7,7 +7,7 @@ You should have a golang env. Download[https://golang.org/dl/] 1.2 or later
 ```
 mkdir /home/goroxy
 export GOAPTH=/home/goroxy
-go get the github.com/Alienero/goproxy
+go get github.com/Alienero/goproxy
 
 go install github.com/Alienero/goproxy/client
 go install github.com/Alienero/goproxy/server
@@ -16,10 +16,10 @@ cd $GOAPTH/bin
 ./key -host [your host]
 # Instlled.
 ```
-### OR Download Binary
-- Key   : [![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/key/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/key)
-- Client:[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/client/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/client)
-- Server:[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/server/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/server)
+<!--### OR Download Binary-->
+<!--- Key   : [![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/key/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/key)-->
+<!--- Client:[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/client/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/client)-->
+<!--- Server:[![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/goproxy/server/downloads.svg)](http://gobuild.io/github.com/Alienero/goproxy/server)-->
 
 ##Usage
 ```
